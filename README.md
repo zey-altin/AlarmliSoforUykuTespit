@@ -3,9 +3,9 @@
 
 ![Projenin genel çalışma mantığına dair bir resim](https://i.hizliresim.com/epxwh8e.JPG)
 
-İndirilmesi gerekenler:
--python3+
--opencv
+## İndirilmesi gerekenler:
+- python3+
+- opencv
 
-Nasıl Çalışır?
+## Nasıl Çalışır?
 Kodlar ve alarm müziği repostory içinde vardır. Kendi video kaydınızı alıp kod içerisindeki video2.mp4 yazan yerlere kendi videonuzun adını yapıştırıp kullanabilirsiniz. Projeye dair kod, ses kaydı ve videoyu tek bir klasörde tutmanız tavsiye edilir.
