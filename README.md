@@ -1,6 +1,8 @@
 # AlarmliSoforUykuTespit
 2023 Görüntü İşleme teknik seçmeli dersim için bireysel olarak hazırladığım alarmlı uyku tespit projesi.
 
+![Projenin genel çalışma mantığına dair bir resim](https://i.hizliresim.com/epxwh8e.JPG)
+
 İndirilmesi gerekenler:
 -python3+
 -opencv
